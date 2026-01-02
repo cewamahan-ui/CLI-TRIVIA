@@ -1,6 +1,6 @@
 # Trivia CLI Game
 
-A command-line interface trivia game built with Node.js that tests your knowledge across various categories with timed questions.
+A command-line interface trivia game built with Node.js that tests your knowledge across timed questions.
 
 ## Features
 
